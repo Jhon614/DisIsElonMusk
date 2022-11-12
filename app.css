@@ -1,0 +1,26 @@
+button:hover{
+    cursor: pointer;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.modoinventor {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: grey;
+    z-index: 1000;
+}
+
+#btn_si {
+    background-color: rgb(81, 201, 237);
+    border: solid 0;
+    border-radius: 8px;
+    color: white;
+    font-size: xx-large;
+    padding: 32px;
+    text-align: center;
+}
